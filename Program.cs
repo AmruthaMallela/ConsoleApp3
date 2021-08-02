@@ -7,6 +7,7 @@ namespace ConsoleApp3
         static void Main(string[] args)
         {
             int x = 30;
+            int y = 45;
             Console.WriteLine("Hello World!");
         }
     }
